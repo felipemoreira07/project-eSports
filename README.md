@@ -3,7 +3,8 @@
 <br>
 
 <div align="center">
-  <img src="https://www.figma.com/file/hAsD3HBJ1QWePUYPZG4rqm/NLW-eSports-(Community)?node-id=1%3A640" alt="e-Sports">
+  <img src="![Landing](https://user-images.githubusercontent.com/104106285/190873477-712fee04-152a-4093-867f-59976176239f.jpg)
+" alt="e-Sports">
 </div>
 
 <br>
