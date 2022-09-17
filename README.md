@@ -3,8 +3,7 @@
 <br>
 
 <div align="center">
-  <img src="![Landing](https://user-images.githubusercontent.com/104106285/190873477-712fee04-152a-4093-867f-59976176239f.jpg)
-" alt="e-Sports">
+  <img src="https://global-uploads.webflow.com/61d83a2ebb0ae01ab96e841a/63126c35ba1c1f99bd4d9966_projeto-trilha-ignite-p-800.jpg" alt="e-Sports">
 </div>
 
 <br>
